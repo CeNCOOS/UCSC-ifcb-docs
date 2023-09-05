@@ -29,11 +29,11 @@ The model is a depthwise Convolutional Neural Network (CNN) based on the Xceptio
 
 **Version 1.0** - 51 distinct taxanomic classes are defined by the model. A description of the classes can be found in the :ref:`classes section <classes>`.
 
+The trained model weights are available at: 
+https://huggingface.co/patcdaniel/phytoClassUCSC/tree/main 
+
 .. caution::
    This classifier is still under development and should be applied with a healthy dose of sketpicism. There may be regional and deployment specific biases that are not well described when applying the model to new data.
-
-
-
 
 .. toctree::
    :maxdepth: 2
